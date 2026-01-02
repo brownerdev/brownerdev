@@ -21,5 +21,5 @@
 ## 🔍 Current Projects
 - Helix RP Server 
    - Looking for Frontend & Backend Developers, Mappers, Scripters.
-   - Reach out to my Discord @Browner for more info
+   - Reach out to my Discord @stainbrown for more info
  
