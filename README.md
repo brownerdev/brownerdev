@@ -1,29 +1,53 @@
-# Hey there! I'm Browner 👋  
+# kabo
 
-## 👨‍💼 About Me  
-- 📦 **Supply Chain Major** passionate about improving business efficiency through technology.  
-- 💻 Currently learning **Software Development** to expand my skills and build real-world tools.  
-- 🎮 **FiveM Liker**, always exploring new ways to create immersive RP scripts and systems.  
-- ⚙️ Fascinated by how **automation** and **data-driven systems** streamline operations.    
-- 🌱 Always learning and pushing myself to connect **logistics** and **logic** through code.  
+## Overview
+Supply chain major with a strong interest in building practical software that improves real workflows. I’m actively transitioning deeper into software development by learning through hands-on projects rather than tutorials.
 
-## 🧰 Tech Stack  
-- **Languages:** Lua | JavaScript | TypeScript | HTML | CSS  
-- **Frameworks & Tools:** Node.js | Express | React | PostgreSQL | Prisma  
-- **Environments:** Visual Studio Code | GitHub | Docker  
-- **Extras:** Figma | Photoshop | OBS Studio  
+---
 
-## 📘 Currently Learning  
-- 🔹 Lua – scripting for **FiveM**, **Helix** and backend game logic.  
-- 🔹 JavaScript – strengthening fundamentals and DOM manipulation.  
-- 🔹 TypeScript – learning to write **safer, scalable web applications**.  
+## Areas of Interest
+- Backend development fundamentals  
+- Workflow automation & internal tools  
+- Data modeling and state-driven systems  
+- Game/server scripting (FiveM, Helix)  
 
-## 🔍 Current Projects
-- PO Lifecycle Tool
-   - PO Tool to automate workflows
-- Mobile Detailing Website
-   - 90% Done
+---
 
- 
- - Reach out to my Discord @stainbrown if your interested in collaborating.
+## Currently Using
+**Languages**  
+Lua · JavaScript · HTML · CSS  
+
+**Tools & Environments**  
+VS Code · GitHub · Docker   
+
+**Databases**  
+PostgreSQL (learning)  
+
+---
+
+## Learning Focus
+- Writing cleaner, more readable JavaScript  
+- Lua scripting for FiveM and server-side logic  
+- Understanding backend concepts (APIs, data flow, state, auth)  
+- Relational databases and schema design  
+
+---
+
+## Current Projects
+**Purchase Order Lifecycle Tool**  
+A personal project to better understand backend systems and data modeling by recreating real procurement workflows: POs, approvals, lead times, and delivery tracking.
+
+**Mobile Detailing Website**  
+Small business website focused on practical UX and real deployment, not frameworks for the sake of it.
+
+---
+
+## Collaboration
+I’m dedicated, curious, and willing to put in the work.  
+Open to helping on projects where I can learn, contribute, and grow — especially backend, automation, or systems-focused work.
+
+---
+
+## Contact
+Discord: **kabo**
  
