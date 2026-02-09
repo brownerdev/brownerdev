@@ -30,7 +30,7 @@ From analyzing supply chains to writing code - I'm on a mission to merge my logi
 
 Let's connect and grow together!
 
-[Add your social media links here]
+# Discord - kabodev
 
 ---
 
