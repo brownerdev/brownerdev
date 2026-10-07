@@ -2,11 +2,11 @@
 
 ### A passionate developer from the US
 
-- 🔭 I'm currently working on a **Helix RP Server on UE5**
+- 🔭 I'm currently working on  **Building my skills**
 
-- 🌱 I'm currently learning **Python/JS**
+- 🌱 I'm currently learning **Lua/DB/TS**
 
-- 👯 I'm looking to collaborate on **Helix RP Server**
+- 👯 I'm looking to collaborate on any **GTA/Business Project you have!**
 
 - 📫 How to reach me **brownerdev on discord**
 
