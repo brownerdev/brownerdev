@@ -1,4 +1,4 @@
-# Hi 👋, I'm Browner
+# Hi 👋, I'm Kabo aka Browner
 
 ### A passionate developer from the US
 
